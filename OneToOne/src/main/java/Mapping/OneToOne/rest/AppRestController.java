@@ -16,7 +16,7 @@ import Mapping.OneToOne.entity.InstructorDetail;
 import Mapping.OneToOne.service.AppService;
 
 @RestController
-@RequestMapping("/oto")
+@RequestMapping("/")
 public class AppRestController {
 	
 	
